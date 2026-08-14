@@ -1,0 +1,34 @@
+# AI Job Impact Analysis – Task 2 (EDA)
+
+## CodeAlpha Data Analytics Internship
+
+### Project objective
+
+This project performs Exploratory Data Analysis (EDA) on the AI Job Impact dataset to understand the impact of AI adoption on employee salaries, automation risk, productivity, and job satisfaction.
+
+### Tools used
+
+* Python
+* Google Colab
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+### Analysis performed
+
+* Data loading
+* Data inspection
+* Missing value analysis
+* Duplicate removal
+* Data cleaning
+* Feature engineering
+* Statistical summary
+* Exploratory Data Analysis
+
+### Output
+
+* Cleaned dataset
+* EDA notebook
+* Summary statistics
+* Insights for further visualization
