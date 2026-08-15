@@ -1,0 +1,48 @@
+# AI Job Impact Analysis – Task 3: Data Visualization
+
+## CodeAlpha Data Analytics Internship
+
+### Project overview
+
+This project focuses on visualizing the AI Job Impact dataset using Python, Matplotlib, and Seaborn. The objective is to transform raw data into meaningful visual representations that help identify patterns, trends, and relationships between AI adoption, salaries, automation risk, productivity, and job satisfaction.
+
+### Objective
+
+The objective of this project is to create clear and informative visualizations that support data-driven decision making and business understanding.
+
+### Tools used
+
+* Python
+* Google Colab
+* Pandas
+* Matplotlib
+* Seaborn
+
+### Dataset
+
+The dataset contains 2,000 employee records with information related to demographics, AI adoption, salaries, automation risk, productivity, remote work, and job satisfaction.
+
+### Visualizations created
+
+* Age Distribution
+* Gender Distribution
+* Education Level Distribution
+* Industry Distribution
+* AI Adoption Level
+* Automation Risk Distribution
+* Job Status Distribution
+* Salary Before AI
+* Salary After AI
+
+
+### Key insights
+
+* AI adoption varied across different employee groups.
+* Salary levels changed after AI adoption.
+* Automation risk affected employee outcomes.
+* Productivity showed variation across employees.
+* Correlation analysis revealed relationships between salary, experience, and productivity.
+
+### Author
+
+Saniya Sheikh
